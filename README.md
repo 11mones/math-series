@@ -1,11 +1,10 @@
-# Math-series
+
+# LAB - Class 02
+**Project: Math series**
 
 
 
-#LAB - Class 02
-Project: Math series
-Author: Mones saeed
-Links and Resources
+**Author: Mones saeed**
 
 
 ## To run the app
