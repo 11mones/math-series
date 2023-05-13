@@ -14,4 +14,3 @@ python series.py
 pytest tests/test_series.py
 ## Tests
 I have copleted the test of this app, and tried many values for the three functions that required in this assignment.
-
