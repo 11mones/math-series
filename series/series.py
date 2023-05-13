@@ -1,5 +1,5 @@
 def Fibonacci(n):
-    '''The fibonacci function is a function that gives you the nth element of fibonacci series, n is the input of the function'''
+    '''The fibonacci function is a function that gives you the nth element of the fibonacci series, n is the input of the function'''
 
 
     if n == 0:
